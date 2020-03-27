@@ -1338,7 +1338,7 @@
 | [[File:HNI_0009.png|60px]]
 | [[Jock|♂ Jock]]
 |[[Bird]]
-| {{GetMonthFromInt|July}} {{d|25}}
+| {{GetMonthFromInt|7}} {{d|25}}
 | <i>"crunch"</i>
 }}
 {{TableContentVillagers
@@ -1387,7 +1387,7 @@
 | [[Jock|♂ Jock]]
 |[[Eagle]]
 | {{GetMonthFromInt|1}} {{d|8}}
-| <i>"hawkeye"</i>
+| <i>"TODO"</i>
 }}
 {{TableContentVillagers
 |'''[[Pietro]]'''<ref name=":6" />
@@ -1532,7 +1532,7 @@
 | [[Jock|♂ Jock]]
 | [[Rabbit]]
 | {{GetMonthFromInt|2}} {{d|13}}
-| <i>"toady"</i>
+| <i>"TODO"</i>
 }}
 {{TableContentVillagers
 |'''[[Ricky]]'''<ref name=":6" />
