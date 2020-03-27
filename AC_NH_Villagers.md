@@ -267,7 +267,7 @@
 | [[Peppy|♀ Peppy]]
 |[[Bear]]
 | {{GetMonthFromInt|6}} {{d|24}}
-| <i>“Candy makes the world go 'round.”</i>
+| <i>peach</i>
 }}
 {{TableContentVillagers
 |'''[[Bob]]'''<ref name=":7" />
@@ -291,7 +291,7 @@
 | [[Lazy|♂ Lazy]]
 | [[Penguin]]
 | {{GetMonthFromInt|2}} {{d|7}}
-| <i>"TODO"</i>
+| <i>"human"</i>
 }}
 {{TableContentVillagers
 |'''[[Boone]]'''
@@ -603,7 +603,7 @@
 | [[Normal|♀ Normal]]
 |[[Duck]]
 | {{GetMonthFromInt|6}} {{d|27}}
-| <i>“I'm not a lame duck!”</i>
+| <i>“woowoo”</i>
 }}
 {{TableContentVillagers
 |'''[[Diana]]'''<ref name=":7" />
@@ -618,7 +618,7 @@
 | [[File:Diva_HD.png|60px]]
 | [[Sisterly|♀ Sisterly]]
 |[[Frog]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|10}} {{d|2}}
 | <i>"ya know"</i>
 }}
 {{TableContentVillagers
@@ -651,7 +651,7 @@
 | [[Jock|♂ Jock]]
 |[[Sheep]]
 | {{GetMonthFromInt|3}} {{d|18}}
-| <i>"Indeederoo"</i>
+| <i>"indeedaroo"</i>
 }}
 {{TableContentVillagers
 |'''[[Dotty]]'''<ref name=":6" />
@@ -802,7 +802,7 @@
 | [[File:Frita_NH.png|60px]]
 | [[Sisterly|♀ Sisterly]]
 |[[Sheep]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|7}} {{d|16}}
 | <i>"oh ewe"</i>
 }}
 {{TableContentVillagers
@@ -858,7 +858,7 @@
 | [[File:Goldie_NewLeaf_Official.png|60px]]
 | [[Normal|♀ Normal]]
 |[[Dog]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|12}} {{d|27}}
 | <i>"woof"</i>
 }}
 {{TableContentVillagers
@@ -866,7 +866,7 @@
 | [[File:-Goose_-_Animal_Crossing_New_Leaf.png|60px]]
 | [[Jock|♂ Jock]]
 |[[Chicken]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|10}} {{d|4}}
 | <i>"buh-kay"</i>
 }}
 {{TableContentVillagers
@@ -874,7 +874,7 @@
 | [[File:Greta_NH.png|60px]]
 | [[Snooty|♀ Snooty]]
 |[[Mouse]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|9}} {{d|5}}
 | <i>"yelp"</i>
 }}
 {{TableContentVillagers
@@ -882,7 +882,7 @@
 | [[File: Nhhamlet.png|60px]]
 | [[Jock|♂ Jock]]
 |[[Hamster]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|5}} {{d|30}}
 | <i>"hammie"</i>
 }}
 {{TableContentVillagers
@@ -914,7 +914,7 @@
 | [[File:Hopper NH.png|60px]]
 | [[Cranky|♂ Cranky]]
 |[[Penguin]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|4}} {{d|6}}
 | <i>"slushie"</i>
 }}
 {{TableContentVillagers
@@ -930,7 +930,7 @@
 | [[File:Iggly NewLeaf Official.png|60px]]
 | [[Jock|♂ Jock]]
 |[[Penguin]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|11}} {{d|2}}
 | <i>"waddler"</i>
 }}
 {{TableContentVillagers
@@ -938,15 +938,15 @@
 | [[File:Jacob_NL.png|60px]]
 | [[Lazy|♂ Lazy]]
 |[[Bird]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|8}} {{d|24}}
+| <i>"chuuuuurp"</i>
 }}
 {{TableContentVillagers
 |'''[[Jay]]'''<ref name=":0" />
 | [[File:Jay NewLeaf Official.png|60px]]
 | [[Jock|♂ Jock]]
 |[[Bird]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|7}} {{d|17}}
 | <i>"heeeeeyy"</i>
 }}
 {{TableContentVillagers
@@ -962,7 +962,7 @@
 | [[File:Julia NH.png|60px]]
 | [[Snooty|♀ Snooty]]
 |[[Ostrich]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|7}} {{d|31}}
 | <i>"dahling"</i>
 }}
 {{TableContentVillagers
@@ -978,7 +978,7 @@
 | [[File:June HD.png|60px]]
 | [[Normal|♀ Normal]]
 |[[Cub]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|5}} {{d|21}}
 | <i>"rainbow"</i>
 }}
 {{TableContentVillagers
@@ -986,7 +986,7 @@
 | [[File:Kabuki_NewLeaf_Official.png|60px]]
 | [[Cranky|♂ Cranky]]
 |[[Cat]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|11}} {{d|29}}
 | <i>"meooo-OH"</i>
 }}
 {{TableContentVillagers
@@ -994,7 +994,7 @@
 | [[File:Katt HD.png|60px]]
 | [[Sisterly|♀ Sisterly]]
 |[[Cat]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|4}} {{d|27}}
 | <i>"purrty"</i>
 }}
 {{TableContentVillagers
@@ -1002,7 +1002,7 @@
 | [[File:Keaton NH.png|60px]]
 | [[Smug|♂ Smug]]
 |[[Eagle]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|6}} {{d|1}}
 | <i>"wingo"</i>
 }}
 {{TableContentVillagers
@@ -1018,7 +1018,7 @@
 | [[File:Kevin NH.png|60px]]
 | [[Jock|♂ Jock]]
 |[[Pig]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|4}} {{d|26}}
 | <i>"weeweewee"</i>
 }}
 {{TableContentVillagers
@@ -1026,7 +1026,7 @@
 | [[File:-Kid Cat - Animal Crossing New Leaf.png|60px]]
 | [[Jock|♂ Jock]]
 |[[Cat]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|8}} {{d|1}}
 | <i>"psst"</i>
 }}
 {{TableContentVillagers
@@ -1042,7 +1042,7 @@
 | [[File:-Kitt - Animal Crossing New Leaf.png|60px]]
 | [[Normal|♀ Normal]]
 |[[Kangaroo]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|10}} {{d|11}}
 | <i>"child"</i>
 }}
 {{TableContentVillagers
@@ -1058,8 +1058,8 @@
 | [[File:NH-icon-Kyle 00.png|60px]]
 | [[Smug|♂ Smug]]
 |[[Wolf]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|12}} {{d|6}}
+| <i>"alpha"</i>
 }}
 {{TableContentVillagers
 |'''[[Leonardo]]'''<ref name=":6" />
@@ -1091,7 +1091,7 @@
 | [[Cranky|♂ Cranky]]
 |[[Wolf]]
 | {{GetMonthFromInt|11}} {{d|5}}
-| <i>"TODO"</i>
+| <i>"ah-rooooo"</i>
 }}
 {{TableContentVillagers
 |'''[[Lolly]]'''<ref name=":3" />
@@ -1099,15 +1099,15 @@
 | [[Normal|♀ Normal]]
 |[[Cat]]
 | {{GetMonthFromInt|3}} {{d|27}}
-| <i>"TODO"</i>
+| <i>"bonbon"</i>
 }}
 {{TableContentVillagers
 |'''[[Lopez]]'''<ref name=":2" />
 | [[File:Lopez HD.png|60px]]
 | [[Smug|♂ Smug]]
 |[[Deer]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|8}} {{d|20}}
+| <i>"buckaroo"</i>
 }}
 {{TableContentVillagers
 |'''[[Mac]]'''
@@ -1122,8 +1122,8 @@
 | [[File:Mallary - Animal Crossing New Leaf.png|60px]]
 | [[Snooty|♀ Snooty]]
 |[[Duck]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|11}} {{d|17}}
+| <i>"quackpth"</i>
 }}
 {{TableContentVillagers
 |'''[[Margie]]'''<ref name=":4" />
@@ -1131,23 +1131,23 @@
 | [[Normal|♀ Normal]]
 |[[Elephant]]
 | {{GetMonthFromInt|1}} {{d|28}}
-| <i>"TODO"</i>
+| <i>"tootie"</i>
 }}
 {{TableContentVillagers
 |'''[[Marina]]'''<ref name=":6" />
 | [[File:NH-icon-Marina-00.png|60px]]
 | [[Normal|♀ Normal]]
 |[[Octopus]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|6}} {{d|26}}
+| <i>"blurp"</i>
 }}
 {{TableContentVillagers
 |'''[[Marshal]]'''<ref name=":3" />
 | [[File:Marshal NH.png|60px]]
 | [[Smug|♂ Smug]]
 |[[Squirrel]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|9}} {{d|29}}
+| <i>"sulky"</i>
 }}
 {{TableContentVillagers
 |'''[[Melba]]'''<ref name=":0" />
@@ -1163,30 +1163,30 @@
 | [[Normal|♀ Normal]]
 |[[Rhino]]
 | {{GetMonthFromInt|3}} {{d|19}}
-| <i>"TODO"</i>
+| <i>"shortcake"</i>
 }}
 {{TableContentVillagers
 |'''[[Merry]]'''<ref>[https://ec.nintendo.com/JP/ja/titles/70010000027618 Japanese Nintendo eShop screenshot]</ref>
 | [[File:Merry_NewLeaf_Official.png|60px]]
 | [[Peppy|♀ Peppy]]
 |[[Cat]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|6}} {{d|29}}
+| <i>"mweee"</i>
 }}
 {{TableContentVillagers
 |'''[[Mint]]'''<ref name=":6" />
 | [[File:Mint.png|60px]]
 | [[Snooty|♀ Snooty]]
 |[[Squirrel]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|5}} {{d|2}}
+| <i>"ahhhhhh"</i>
 }}
 {{TableContentVillagers
 |'''[[Mira]]'''<ref name=":6" />
 | [[File:Mira_HD.png|60px]]
 | [[Sisterly|♀ Sisterly]]
 |[[Rabbit]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|7}} {{d|6}}
 | <i>"cottontail"</i>
 }}
 {{TableContentVillagers
@@ -1195,7 +1195,7 @@
 | [[Normal|♀ Normal]]
 |[[Duck]]
 | {{GetMonthFromInt|3}} {{d|7}}
-| <i>"TODO"</i>
+| <i>"quackidee"</i>
 }}
 {{TableContentVillagers
 |'''[[Moose]]'''
@@ -1203,7 +1203,7 @@
 |  [[Jock|♂ Jock]]
 |[[Mouse]]
 |  {{GetMonthFromInt|9}} {{d|13}}
-| <i>"Shorty"</i>
+| <i>"shorty"</i>
 }}
 {{TableContentVillagers
 |'''[[Mott]]'''
@@ -1211,7 +1211,7 @@
 |  [[Jock|♂ Jock]]
 |[[Lion]]
 |  {{GetMonthFromInt|7}} {{d|10}}
-| <i>"Cagey"</i>
+| <i>"cagey"</i>
 }}
 {{TableContentVillagers
 |'''[[Muffy]]'''<ref name=":6" />
@@ -1219,30 +1219,30 @@
 | [[Sisterly|♀ Sisterly]]
 |[[Sheep]]
 | {{GetMonthFromInt|2}} {{d|14}}
-| <i>"Nightshade"</i>
+| <i>"nightshade"</i>
 }}
 {{TableContentVillagers
 |'''[[Nate]]'''<ref name=":3" />
 | [[File:Nate.png|60px]]
 | [[Lazy|♂ Lazy]]
 |[[Bear]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|8}} {{d|16}}
+| <i>"yawwwn"</i>
 }}
 {{TableContentVillagers
 |'''[[Nibbles]]'''<ref name=":6" />
 | [[File:Nibbles.png|60px]]
 | [[Peppy|♀ Peppy]]
 |[[Squirrel]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|7}} {{d|19}}
+| <i>"niblet"</i>
 }}
 {{TableContentVillagers
 |'''[[Octavian]]'''<ref name=":0" />
 | [[File:OctavianNH.png|60px]]
 | [[Cranky|♂ Cranky]]
 |[[Octopus]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|9}} {{d|20}}
 | <i>"sucker"</i>
 }}
 {{TableContentVillagers
@@ -1250,8 +1250,8 @@
 | [[File:O' Hare NH.png|60px]]
 | [[Smug|♂ Smug]]
 |[[Rabbit]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|7}} {{d|24}}
+| <i>"amigo"</i>
 }}
 {{TableContentVillagers
 |'''[[Olivia]]'''<ref name=":1" />
@@ -1259,14 +1259,14 @@
 | [[Snooty|♀ Snooty]]
 |[[Cat]]
 | {{GetMonthFromInt|2}} {{d|3}}
-| <i>"TODO"</i>
+| <i>"purrr"</i>
 }}
 {{TableContentVillagers
 |'''[[Ozzie]]'''<ref name=":7" />
 | [[File:Ozzie_NewLeaf_Official.png|60px]]
 | [[Lazy|♂ Lazy]]
 |[[Koala]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|5}} {{d|7}}
 | <i>"ol' bear"</i>
 }}
 {{TableContentVillagers
@@ -1274,23 +1274,23 @@
 | [[File:Pancetti.png|60px]]
 | [[Snooty|♀ Snooty]]
 |[[Pig]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|11}} {{d|14}}
+| <i>"sooey"</i>
 }}
 {{TableContentVillagers
 |'''[[Papi]]'''
 | [[File:Papi.png|60px]]
 | [[Lazy|♂ Lazy]]
 |[[Horse]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|1}} {{d|10}}
+| <i>"haaay"</i>
 }}
 {{TableContentVillagers
 |'''[[Pashmina]]'''<ref name=":3" />
 | [[File:Pashmina_newest.png|60px]]
 | [[Sisterly|♀ Sisterly]]
 |[[Goat]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|12}} {{d|26}}
 | <i>"kidders"</i>
 }}
 {{TableContentVillagers
@@ -1298,7 +1298,7 @@
 | [[File:Patty.png|60px]]
 | [[Peppy|♀ Peppy]]
 |[[Cow]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|5}} {{d|10}}
 | <i>"how-now"</i>
 }}
 {{TableContentVillagers
@@ -1308,31 +1308,30 @@
 |[[Bear]]
 | {{GetMonthFromInt|3}} {{d|22}}
 | <i>"yodelay"</i>
-
 }}
 {{TableContentVillagers
 |'''[[Peaches]]'''<ref name=":4" />
 | [[File:-Peaches_-_Animal_Crossing_New_Leaf.png|60px]]
 | [[Normal|♀ Normal]]
 |[[Horse]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|11}} {{d|28}}
+| <i>"neighbor"</i>
 }}
 {{TableContentVillagers
 |'''[[Peanut]]'''<ref name=":2" />
 | [[File:Peanut_HD.png|60px]]
 | [[Peppy|♀ Peppy]]
 |[[Squirrel]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|6}} {{d|8}}
+| <i>"slacker"</i>
 }}
 {{TableContentVillagers
 |'''[[Pecan]]'''<ref name=":6" />
 | [[File:Pecan_-_Animal_Crossing_New_Leaf.png|60px]]
 | [[Snooty|♀ Snooty]]
 |[[Squirrel]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|9}} {{d|10}}
+| <i>"chipmunk"</i>
 }}
 {{TableContentVillagers
 |'''[[Peck]]'''
@@ -1347,16 +1346,16 @@
 | [[File:Peewee_NewLeaf_Official.png|60px]]
 | [[Cranky|♂ Cranky]]
 |[[Gorilla]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|9}} {{d|11}}
+| <i>"li'l dude"</i>
 }}
 {{TableContentVillagers
 |'''[[Pekoe]]'''<ref name=":11">[https://twitter.com/wario65535/status/1223874685349220352 Taiwanese Animal Crossing: New Horizons advertisement (Feb 2, 2020)]</ref>
 | [[File:Pekoe_NewLeaf_Official.png|60px]]
 | [[Normal|♀ Normal]]
 |[[Cub]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|5}} {{d|18}}
+| <i>"bud"</i>
 }}
 {{TableContentVillagers
 |'''[[Penelope]]'''<ref name=":6" />
@@ -1371,15 +1370,15 @@
 | [[File:Phil_HHD.png|60px]]
 | [[Smug|♂ Smug]]
 |[[Ostrich]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|11}} {{d|27}}
+| <i>"hurk"</i>
 }}
 {{TableContentVillagers
 |'''[[Phoebe]]'''<ref name=":6" />
 | [[File:Phoebe_HHD.png|60px]]
 | [[Sisterly|♀ Sisterly]]
 |[[Ostrich]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|4}} {{d|22}}
 | <i>"sparky"</i>
 }}
 {{TableContentVillagers
@@ -1388,22 +1387,22 @@
 | [[Jock|♂ Jock]]
 |[[Eagle]]
 | {{GetMonthFromInt|1}} {{d|8}}
-| <i>"TODO"</i>
+| <i>"hawkeye"</i>
 }}
 {{TableContentVillagers
 |'''[[Pietro]]'''<ref name=":6" />
 | [[File:Pietro.png|60px]]
 | [[Smug|♂ Smug]]
 |[[Sheep]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|4}} {{d|19}}
+| <i>"honk honk"</i>
 }}
 {{TableContentVillagers
 |'''[[Pinky]]'''<ref name=":7" />
 | [[File:Pinky_NewLeaf_Official.png|60px]]
 | [[Peppy|♀ Peppy]]
 |[[Bear]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|9}} {{d|9}}
 | <i>"wah"</i>
 }}
 {{TableContentVillagers
@@ -1412,22 +1411,22 @@
 | [[Peppy|♀ Peppy]]
 |[[Bird]]
 | {{GetMonthFromInt|4}} {{d|18}}
-| <i>"TODO"</i>
+| <i>"chickadee"</i>
 }}
 {{TableContentVillagers
 |'''[[Pippy]]'''<ref name=":6" />
 | [[File:Pippy_NewLeaf_Official.png|60px]]
 | [[Peppy|♀ Peppy]]
 |[[Rabbit]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|6}} {{d|14}}
+| <i>"li'l hare"</i>
 }}
 {{TableContentVillagers
 |'''[[Plucky]]'''<ref name=":8" > https://twitter.com/finne0n/status/1243404233069588480</ref>
 | [[File:Plucky HD.png|60px]]
 | [[Sisterly|♀ Sisterly]]
 |[[Chicken]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|10}} {{d|12}}
 | <i>"chicky-poo"</i>
 }}
 {{TableContentVillagers
@@ -1436,14 +1435,14 @@
 | [[Jock|♂ Jock]]
 |[[Cub]]
 | {{GetMonthFromInt|1}} {{d|2}}
-| <i>"TODO"</i>
+| <i>"li'l bear"</i>
 }}
 {{TableContentVillagers
 |'''[[Poppy]]'''<ref name=":4" />
 | [[File:Poppy_WA.png|60px]]
 | [[Normal|♀ Normal]]
 |[[Squirrel]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|8}} {{d|5}}
 | <i>"nutty"</i>
 }}
 {{TableContentVillagers
@@ -1452,31 +1451,31 @@
 | [[Lazy|♂ Lazy]]
 |[[Penguin]]
 | {{GetMonthFromInt|2}} {{d|21}}
-| <i>"TODO"</i>
+| <i>"brrrrrrrrr"</i>
 }}
 {{TableContentVillagers
 |'''[[Punchy]]'''<ref name=":7" />
 | [[File:-Punchy_-_Animal_Crossing_New_Leaf.png|60px]]
 | [[Lazy|♂ Lazy]]
 |[[Cat]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|4}} {{d|11}}
+| <i>"mrmpht"</i>
 }}
 {{TableContentVillagers
 |'''[[Purrl]]'''<ref name=":7" />
 | [[File:-Purrl_-_Animal_Crossing_New_Leaf.png|60px]]
 | [[Snooty|♀ Snooty]]
 |[[Cat]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|5}} {{d|29}}
+| <i>"kitten"</i>
 }}
 {{TableContentVillagers
 |'''[[Queenie]]'''<ref name=":6" />
 | [[File:Queenie_NewLeaf_Official.png|60px]]
 | [[Snooty|♀ Snooty]]
 |[[Ostrich]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|11}} {{d|13}}
+| <i>"chicken"</i>
 }}
 {{TableContentVillagers
 |'''[[Raddle]]'''
@@ -1491,8 +1490,8 @@
 | [[File:Raymond_NH.png|60px]]
 | [[Smug|♂ Smug]]
 |[[Cat]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|10}} {{d|1}}
+| <i>"crisp"</i>
 }}
 {{TableContentVillagers
 |'''[[Renee|Renée]]'''<ref name=":1" />
@@ -1507,8 +1506,8 @@
 | [[File:Reneigh.jpg|60px]]
 | [[Sisterly|♀ Sisterly]]
 |[[Horse]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|6}} {{d|4}}
+| <i>"ayup, yup"</i>
 }}
 {{TableContentVillagers
 |'''[[Rex]]'''
@@ -1525,7 +1524,7 @@
 | [[Normal|♀ Normal]]
 |[[Rhino]]
 | {{GetMonthFromInt|1}} {{d|24}}
-| <i>"TODO"</i>
+| <i>"bigfoot"</i>
 }}
 {{TableContentVillagers
 |'''[[Ribbot]]'''<ref name=":6" />
@@ -1533,15 +1532,15 @@
 | [[Jock|♂ Jock]]
 | [[Rabbit]]
 | {{GetMonthFromInt|2}} {{d|13}}
-| <i>"TODO"</i>
+| <i>"toady"</i>
 }}
 {{TableContentVillagers
 |'''[[Ricky]]'''<ref name=":6" />
 | [[File:Ricky_NewLeaf_Official.png|60px]]
 | [[Cranky|♂ Cranky]]
 |[[Squirrel]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|9}} {{d|14}}
+| <i>"nutcase"</i>
 }}
 {{TableContentVillagers
 |'''[[Roald]]'''<ref name=":2" />
@@ -1549,15 +1548,15 @@
 | [[Jock|♂ Jock]]
 |[[Penguin]]
 | {{GetMonthFromInt|1}} {{d|5}}
-| <i>"TODO"</i>
+| <i>"b-b-buddy"</i>
 }}
 {{TableContentVillagers
 |'''[[Rocco]]'''<ref name=":0" />
 | [[File:Rocco_-_Animal_Crossing_New_Leaf.png|60px]]
 | [[Cranky|♂ Cranky]]
 |[[Hippo]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|8}} {{d|18}}
+| <i>"hippie"</i>
 }}
 {{TableContentVillagers
 |'''[[Rocket]]'''<ref name=":0" />
@@ -1565,22 +1564,22 @@
 | [[Sisterly|♀ Sisterly]]
 |[[Gorilla]]
 | {{GetMonthFromInt|4}} {{d|14}}
-| <i>"TODO"</i>
+| <i>"vroom"</i>
 }}
 {{TableContentVillagers
 |'''[[Rod]]'''<ref name=":3" />
 | [[File:Rod_NewLeaf_Official.png|60px]]
 | [[Jock|♂ Jock]]
 |[[Mouse]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|8}} {{d|14}}
+| <i>"ace"</i>
 }}
 {{TableContentVillagers
 |'''[[Rodeo]]'''
 | [[File:Rodeo - Animal Crossing New Leaf.png|60px]]
 | [[Lazy|♂ Lazy]]
 |[[Bull]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|10}} {{d|29}}
 | <i>"chaps"</i>
 }}
 {{TableContentVillagers
@@ -1588,23 +1587,23 @@
 | [[File:Rodney_HHD.png|60px]]
 | [[Smug|♂ Smug]]
 |[[Hamster]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|11}} {{d|10}}
+| <i>"le ham"</i>
 }}
 {{TableContentVillagers
 |'''[[Rolf]]'''<ref name=":6" />
 | [[File:Rolf_NewLeaf_Official.png|60px]]
 | [[Cranky|♂ Cranky]]
 |[[Tiger]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|8}} {{d|22}}
+| <i>"grrrolf"</i>
 }}
 {{TableContentVillagers
 |'''[[Rory]]'''
 | [[File:Rory_NewLeaf_Official.png|60px]]
 | [[Jock|♂ Jock]]
 |[[Lion]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|8}} {{d|7}}
 | <i>"capital"</i>
 }}
 {{TableContentVillagers
@@ -1612,8 +1611,8 @@
 | [[File:-Roscoe_-_Animal_Crossing_New_Leaf.png|60px]]
 | [[Cranky|♂ Cranky]]
 |[[Horse]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|6}} {{d|16}}
+| <i>"nay"</i>
 }}
 {{TableContentVillagers
 |'''[[Rosie]]'''<ref name=":2" />
@@ -1621,7 +1620,7 @@
 | [[Peppy|♀ Peppy]]
 |[[Cat]]
 | {{GetMonthFromInt|2}} {{d|27}}
-| <i>"TODO"</i>
+| <i>"silly"</i>
 }}
 {{TableContentVillagers
 |'''[[Rowan]]'''<ref name=":4" />
@@ -1636,16 +1635,16 @@
 | [[File:Ruby_NewLeaf_Official.png|60px]]
 | [[Peppy|♀ Peppy]]
 |[[Rabbit]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|12}} {{d|25}}
+| <i>"li'l ears"</i>
 }}
 {{TableContentVillagers
 |'''[[Sally (Wild World)|Sally]]'''<ref name=":6" />
 | [[File:Sally_ACNH_Render.png|60px]]
 | [[Normal|♀ Normal]]
 |[[Squirrel]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|6}} {{d|19}}
+| <i>"nutmeg"</i>
 }}
 {{TableContentVillagers
 |'''[[Samson]]'''
@@ -1660,8 +1659,8 @@
 | [[File:Sandy_HD.png|60px]]
 | [[Normal|♀ Normal]]
 |[[Ostrich]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|10}} {{d|21}}
+| <i>"speedy"</i>
 }}
 {{TableContentVillagers
 |'''[[Savannah]]'''<ref name=":3" />
@@ -1669,14 +1668,14 @@
 | [[Normal|♀ Normal]]
 |[[Horse]]
 | {{GetMonthFromInt|1}} {{d|25}}
-| <i>"TODO"</i>
+| <i>"y'all"</i>
 }}
 {{TableContentVillagers
 |'''[[Shari]]'''<ref name=":7" />
 | [[File:Shari_HD.png|60px]]
 | [[Sisterly|♀ Sisterly]]
 |[[Monkey]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|4}} {{d|10}}
 | <i>"cheeky"</i>
 }}
 {{TableContentVillagers
@@ -1692,9 +1691,8 @@
 | [[File:Sherb NH.jpg|60px]]
 | [[Lazy|♂ Lazy]]
 |[[Goat]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|1}} {{d|18}}
 | <i>"bawwww"</i>
-
 }}
 {{TableContentVillagers
 |'''[[Skye]]'''<ref name=":4" />
@@ -1709,15 +1707,15 @@
 | [[File:Sly HHD.png|60px]]
 | [[Jock|♂ Jock]]
 |[[Alligator]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|11}} {{d|15}}
+| <i>"hoo-rah"</i>
 }}
 {{TableContentVillagers
 |'''[[Snake]]'''<ref name=":6" />
 | [[File:Snake_NH.png|60px]]
 | [[Jock|♂ Jock]]
 |[[Rabbit]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|11}} {{d|3}}
 | <i>"bunyip"</i>
 }}
 {{TableContentVillagers
@@ -1725,39 +1723,39 @@
 | [[File:Spike NH.png|60px]]
 | [[Cranky|♂ Cranky]]
 |[[Rhino]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|6}} {{d|17}}
+| <i>"punk"</i>
 }}
 {{TableContentVillagers
 |'''[[Sprocket]]'''<ref name=":6" />
 | [[File:Sprocket.png|60px]]
 | [[Jock|♂ Jock]]
 |[[Ostrich]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|12}} {{d|1}}
+| <i>"zort"</i>
 }}
 {{TableContentVillagers
 |'''[[Static]]'''<ref name=":6" />
 | [[File:Static NH.png|60px]]
 | [[Cranky|♂ Cranky]]
 |[[Squirrel]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|7}} {{d|9}}
+| <i>"krzzt"</i>
 }}
 {{TableContentVillagers
 |'''[[Stella]]'''<ref name=":6" />
 | [[File:Stella_NH.png|60px]]
 | [[Normal|♀ Normal]]
 |[[Sheep]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|4}} {{d|9}}
+| <i>"baa-dabing"</i>
 }}
 {{TableContentVillagers
 |'''[[Sterling]]'''<ref name=":6" />
 | [[File:Sterling_NewLeaf_Official.png|60px]]
 | [[Jock|♂ Jock]]
 |[[Eagle]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|12}} {{d|11}}
 | <i>"skraaaaw"</i>
 }}
 {{TableContentVillagers
@@ -1766,23 +1764,23 @@
 | [[Lazy|♂ Lazy]]
 |[[Cub]]
 | {{GetMonthFromInt|2}} {{d|10}}
-| <i>"TODO"</i>
+| <i>"stuffin'"</i>
 }}
 {{TableContentVillagers
 |'''[[Sydney]]'''<ref name=":3" />
 | [[File:Sydney_NewLeaf_Official.png|60px]]
 | [[Normal|♀ Normal]]
 |[[Koala]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|6}} {{d|21}}
+| <i>"sunshine"</i>
 }}
 {{TableContentVillagers
 |'''[[Sylvana]]'''<ref name=":6" />
 | [[File:Sylvana_HD.png|60px]]
 | [[Normal|♀ Normal]]
 |[[Squirrel]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|10}} {{d|22}}
+| <i>"hubbub"</i>
 }}
 {{TableContentVillagers
 |'''[[Sylvia]]'''
@@ -1798,14 +1796,14 @@
 | [[Peppy|♀ Peppy]]
 |[[Monkey]]
 | {{GetMonthFromInt|4}} {{d|2}}
-| <i>"TODO"</i>
+| <i>"chimpy"</i>
 }}
 {{TableContentVillagers
 |'''[[Tammy]]'''<ref name=":2" />
 | [[File:Tammy_HD.png|60px]]
 | [[Sisterly|♀ Sisterly]]
 |[[Cub]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|6}} {{d|23}}
 | <i>"ya heard"</i>
 }}
 {{TableContentVillagers
@@ -1813,39 +1811,39 @@
 | [[File:-Tangy_-_Animal_Crossing_New_Leaf.png|60px]]
 | [[Peppy|♀ Peppy]]
 |[[Cat]] 
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|6}} {{d|17}}
+| <i>"reeeeOWR"</i>
 }}
 {{TableContentVillagers
 |'''[[Tank]]'''<ref name=":4" />
 | [[File:NH-Tank-Render.png|60px]]
 | [[Jock|♂ Jock]]
 |[[Rhino]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|5}} {{d|6}}
+| <i>"kerPOW"</i>
 }}
 {{TableContentVillagers
 |'''[[T-Bone]]'''<ref name=":4" />
 | [[File:TBone NewLeaf Official.png|60px]]
 | [[Cranky|♂ Cranky]]
 |[[Bull]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|5}} {{d|20}}
+| <i>"moocher"</i>
 }}
 {{TableContentVillagers
 |'''[[Tasha]]'''<ref name=":6" />
 | [[File:Tasha_HD.png|60px]]
 | [[Snooty|♀ Snooty]]
 |[[Squirrel]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|11}} {{d|30}}
+| <i>"nice nice"</i>
 }}
 {{TableContentVillagers
 |'''[[Teddy]]'''<ref name=":3" />
 | [[File:-Teddy_-_Animal_Crossing_New_Leaf.png|60px]]
 | [[Jock|♂ Jock]]
 |[[Bear]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|9}} {{d|26}}
 | <i>"grooof"</i>
 }}
 {{TableContentVillagers
@@ -1854,23 +1852,23 @@
 | [[Snooty|♀ Snooty]]
 |[[Rabbit]]
 | {{GetMonthFromInt|1}} {{d|9}}
-| <i>"TODO"</i>
+| <i>"bun bun"</i>
 }}
 {{TableContentVillagers
 |'''[[Timbra]]'''<ref name=":6" />
 | [[File:Timbra_HD.png|60px]]
 | [[Snooty|♀ Snooty]]
 |[[Sheep]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|10}} {{d|21}}
+| <i>"pine nut"</i>
 }}
 {{TableContentVillagers
 |'''[[Truffles]]'''<ref name=":0" />
 | [[File:Truffles_NewLeaf_Official.png|60px]]
 | [[Peppy|♀ Peppy]]
 |[[Pig]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|7}} {{d|28}}
+| <i>"snoutie"</i>
 }}
 {{TableContentVillagers
 |'''[[Tucker]]'''
@@ -1901,13 +1899,13 @@
 | [[File:TybaltACNL.png|60px]]
 | [[Jock|♂ Jock]]
 |[[Tiger]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|8}} {{d|19}}
+| <i>"grrRAH"</i>
 }}
 {{TableContentVillagers
-|'''[[Ursula]]'''
+|'''[[Ursala]]'''
 | [[File:Ursala HD.png|60px]]
-| [[Sisterly|♀ Sisterly]]
+| [[Snooty|♀ Snooty]]
 |[[Bear]]
 | {{GetMonthFromInt|1}} {{d|16}}
 | <i>"grooomph"</i>
@@ -1917,24 +1915,24 @@
 | [[File:NH-Vesta-Render.png|60px]]
 | [[Normal|♀ Normal]]
 |[[Sheep]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|4}} {{d|16}}
+| <i>"baaaffo"</i>
 }}
 {{TableContentVillagers
 |'''[[Victoria]]'''<ref name=":5" />
 | [[File:Victoria_NewLeaf_Official.png|60px]]
 | [[Peppy|♀ Peppy]]
 |[[Horse]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|7}} {{d|11}}
+| <i>"sugar cube"</i>
 }}
 {{TableContentVillagers
 |'''[[Violet]]'''<ref name=":7" />
 | [[File:Violet_NewLeaf_Official.png|60px]]
 | [[Snooty|♀ Snooty]]
 |[[Gorilla]]
-| {{GetMonthFromInt|}} {{d|1}}
-| <i>"TODO"</i>
+| {{GetMonthFromInt|9}} {{d|1}}
+| <i>"sweetie"</i>
 }}
 {{TableContentVillagers
 |'''[[Vivian]]'''<ref name=":6" />
@@ -1942,7 +1940,7 @@
 | [[Snooty|♀ Snooty]]
 |[[Wolf]]
 | {{GetMonthFromInt|1}} {{d|26}}
-| <i>"TODO"</i>
+| <i>"piffle"</i>
 }}
 {{TableContentVillagers
 |'''[[Vladimir]]'''<ref name=":1" />
@@ -1958,7 +1956,7 @@
 | [[Lazy|♂ Lazy]]
 |[[Penguin]]
 | {{GetMonthFromInt|10}} {{d|30}}
-| <i>"Which came first, the seeds or the sunflower?"</i>
+| <i>"so it goes"</i>
 }}
 {{TableContentVillagers
 |'''[[Wendy]]'''<ref name=":6" />
@@ -1973,7 +1971,7 @@
 | [[File:NH-icon-Whitney_00.png|60px]]
 | [[Snooty|♀ Snooty]]
 |[[Wolf]]
-| {{GetMonthFromInt|}} {{d|1}}
+| {{GetMonthFromInt|9}} {{d|17}}
 | <i>"snappy"</i>
 }}
 {{TableContentVillagers
